@@ -1,2 +1,2 @@
 # .github
-organization REDMA
+organization README
